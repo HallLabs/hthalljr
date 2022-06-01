@@ -1,7 +1,7 @@
 "Very Cold Fusion" project.
 - Hello, I'm @hthalljr, Howard Tracy Hall, Jr. I go by Tracy, or by Tracy Jr to distinguish myself from my late father and from my son and colleague, Huntington Tracy Hall.
 - At age 76, I'm coming out of retirement to lead an open-source project at Hall Labs which we call "Very Cold Fusion."
-- Hall Labs is an incubator founded by my brother, David R. Hall. David is funding the project through his foundation, and I'm donating my time.
+- Hall Labs is an evergreen incubator founded by Tracy Sr. in 1955. Its current CEO is my brother David R. Hall. Halllabs is funding the project, and I'm donating my time.  
 - Every aspect of this project is open-source and is committed to the public domain. It is free to all. No secrecy. No IP. We will publish ideas, experiments, successes & failures in real time on the Internet.
 - We agree with Adam Smith that when everyone acts on their own enlightened self interest, society as a whole will benefit. So fork this project! If your interests are humanitarian, dedicate your fork to the public domain. If your interests are commercial and you believe your fork is patentable, go for it! Do disclose to your country's patent office that which has already been placed in the public domain, and also remember that, at least in the USA, the patent office classifies cold fusion with perpetual motion and requires a working model.
 - After a review of the large literature published in the 33 years since the announcement by Fleischmann and Pons on March 23, 1989, I agree with the notion that the phenomenon of "anomalous heat" / aka "cold fusion" / aka "low energy nuclear reactions" might be associated with isolated tiny pockets of superconductivity.
