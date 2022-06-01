@@ -1,7 +1,7 @@
 "Very Cold Fusion" project.
 - Hello, I'm @hthalljr, Howard Tracy Hall, Jr. I go by Tracy, or by Tracy Jr when I'm around my son and colleague, Huntington Tracy Hall.
 - At age 76, I'm coming out of retirement to lead an open-source project at Hall Labs which we call "Very Cold Fusion."
-- "Very Cold Fusion" is free, to all, to contribute to or to use. No secrecy. No IP. We will publish ideas, experiments, successes & failures in real time to GitHub.
+- "Very Cold Fusion" is free, to all, to contribute to or to use. No secrecy. No IP. We will publish ideas, experiments, successes & failures in real time on the Internet.
 - We encourage every fork of this project to also remain open source and free to all.
 - Hall Labs is an incubator founded by my brother, David R. Hall. Many of our projects are directed at commercial opportunities, but fusion is too big for anyone to own.
 - Through his foundation, David is funding the project, and I'm donating my time (I already have a good retirement income.)
