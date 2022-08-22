@@ -1,0 +1,20 @@
+This concept was posted to Facebook on August 16, 2022 at 5:04 a.m.
+https://www.facebook.com/permalink.php?story_fbid=pfbid02GdZ74264VRMgxZovQmPVNdyjJywXYVBJLA9qQ5dV1bsyM4z9TGd9T2eRVbfgbwGHl&id=578136106
+Tracy Hall Jr
+After awakening at 4 A.M., I was reading Google News while waiting for my sleeping pill to kick in. Almost immediately this brilliant hack popped up in my feed,
+no doubt fed to me because of my recent Google searches. 
+For our Very Cold Fusion project at Hall Labs, I'm planning to sputter the inside surface of a hollow spherical copper microwave resonator, about 2 inches in diameter,
+with a thin coat of palladium, which metallurgically behaves very much like silver. The sputtering target (source) will be a small copper sphere in the center
+which is electroplated with palladium. The reactor will first be pumped to high vacuum at about 250 C to remove surface contaminants and any hydrogen entrained 
+in the target during electroplating. A low pressure of argon will be bled in while pumping, and the target will be briefly sputtered to expose a pure surface
+on the target and lay down a thin  crystalline layer of impure palladium on the substrate, which is the inside surface of the sphere. The reactor will then be immersed
+in liquid nitrogen, a small bleed of deuterium will be added to the argon stream, and an  amorphous or nanocrystalline layer of PdDx will be deposited, hopefully 
+with x >>1. I'm hoping to induce a supur-abundance of vacancies in the sputtered layer, which hopefully will replicate, in much greater concentration, the 
+nuclear-active environment that many believe is responsible for the Fleischman-Pons effect. 
+But instead of harvesting the energy as heat, I hope to harvest it as microwaves, which can be converted to electricity with high efficiency.
+I knew that forcing the electrons in the plasma to spiral along the field lines of a strong magnet greatly increases the sputtering rate, but I couldn't figure out 
+how to implement that in my geometry. This ingenious "hack" gives the answer: scan the magnet! I might even use the transformer, diode, and magnet 
+from a thrift-store microwave oven!
+Hackaday.com:  Sputtering Dagguerotypes, Batman!  
+https://hackaday.com/2022/08/15/sputtering-daugerotypes-batman/ : report on a project by Koji Takur at hackday.io
+https://hackaday.io/project/186823-sputtering-equipment-for-daguerreotype-photography
